@@ -1,0 +1,1223 @@
+[
+{
+	"name": "Alliance",
+	"recruiting": "MERIT"
+},
+{
+	"name": "Hegemony"
+},
+	{
+		"name": "Federation",
+		"jobs": {
+			"level-5": [
+				"Secretary-General"
+			],
+			"level-4": [
+				"Deputy Secretary-General",
+				"Head Peacekeeper"
+			],
+			"level-3": [
+				"Envoy",
+				"Envoy"
+			]
+		}
+	},
+	{
+		"name": "Confederation",
+		"jobs": {
+			"level-5": [
+				"President"
+			],
+			"level-4": [
+				"Federal Councilor",
+				"Federal Councilor",
+				"Federal Councilor"
+			]
+		},
+		"recruiting": "MERIT"
+	},
+{
+	"name": "Union"
+},
+{
+	"name": "League",
+	"jobs": {
+		"level-5": [
+			"Basileus"
+		],
+		"level-4": [
+			"Cosmonavarch",
+			"First Strategos"
+		],
+		"level-3": [
+			"Archonte",
+			"Benefactor",
+			"Treasurer"
+		]
+	}
+},
+{
+	"name": "Freehold"
+},
+{
+	"name": "Conglomerates"
+},
+{
+	"name": "Regime"
+},
+{
+	"name": "Republic",
+	"jobs": {
+		"level-5": [
+			"President"
+		],
+		"level-4": [
+			"Senator",
+			"Senator",
+			"Senator"
+		],
+		"level-3": [
+			"Consul",
+			"Tribune"
+		]
+	}
+},
+{
+	"name": "Democracy",
+	"recruiting": "MERIT"
+},
+{
+	"name": "Commonwealth",
+	"jobs": {
+		"level-5": [
+			"Chairman"
+		],
+		"level-4": [
+			"Secretary-General",
+			"Head of Treasury",
+			"Chancellor"
+		],
+		"level-3": [
+			"Minister of Culture",
+			"Minister of Defense"
+		]
+	}
+},
+{
+	"name": "Combine"
+},
+{
+	"name": "Dominion"
+},
+{
+	"name": "Empire"
+},
+{
+	"name": "Council",
+	"jobs": {
+		"level-5": [
+			"Chairman"
+		],
+		"level-4": [
+			"Treasurer",
+			"Secretary"
+		],
+		"level-3": [
+			"Social Advisor",
+			"Spiritual Advisor"
+		]
+	},
+	"specials": [
+		"STABLE"
+	]
+},
+{
+	"name": "Kingdom",
+	"jobs": {
+		"level-5": [
+			"King"
+		],
+		"level-4": [
+			"Queen"
+		],
+		"level-3": [
+			"Prince",
+			"Princess"
+		],
+		"level-2": [
+			"Courtisan"
+		]
+	},
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Guild",
+	"jobs": {
+		"level-5": [
+			"Master Craftsman"
+		],
+		"level-4": [
+			"Journeyman",
+			"Journeyman"
+		],
+		"level-3": [
+			"Apprentice",
+			"Apprentice"
+		]
+	}
+},
+{
+	"name": "Myriad"
+},
+{
+	"name": "State"
+},
+{
+	"name": "Bureaucracy"
+},
+{
+	"name": "Directorate",
+	"jobs": {
+		"level-5": [
+			"Director"
+		],
+		"level-4": [
+			"Minister of War",
+			"Minister of Religion",
+			"Minister of Labour"
+		],
+		"level-3": [
+			"Secretary"
+		]
+	}
+},
+{
+	"name": "Free State"
+},
+{
+	"name": "Monarchy",
+	"jobs": {
+		"level-5": [
+			"Monarch"
+		],
+		"level-4": [
+			"Heir",
+			"Consort"
+		],
+		"level-3": [
+			"Royal Guard Captain",
+			"Cup Bearer",
+			"Chamberlain"
+		]
+	},
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Association"
+},
+{
+	"name": "Foundation"
+},
+{
+	"name": "Legion",
+	"jobs": {
+		"level-5": [
+			"Legate"
+		],
+		"level-4": [
+			"Tribune",
+			"Prefect"
+		],
+		"level-3": [
+			"Aquila",
+			"Centurion"
+		]
+	},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Collective",
+	"jobs": {
+		"level-5": [
+			"Worker Committee Chairman"
+		],
+		"level-4": [
+			"Union President",
+			"Union Spokesperson"
+		],
+		"level-3": [
+			"Worker",
+			"Worker",
+			"Manager"
+		]
+	}
+},
+{
+	"name": "Coalition"
+},
+{
+	"name": "Axis"
+	"jobs": {
+		"level-5": [
+		"Fuhrer"
+		],
+		"level-4": [
+		"Military General"
+		"Secret Police Director"
+		"Spy Corporation Director"
+		"Treasurer"
+		],
+		"level-3": [
+		"Fuhrer's Protector"
+		"Director of the War Camps"
+		]
+	}
+},
+{
+	"name": "Nation"
+},
+{
+	"name": "Community",
+	"jobs": {
+	"level-5": [
+		"Mayor"
+	],
+	"level-4": [
+		"Vice President",
+		"Honorable Judge"
+	],
+	"level-3": [
+		"Head Deputy Sheriff"
+	],
+		"level-2": [
+			"Treasurer"
+		],
+		"level-1": [
+			"Community Director",
+			"Security Guard"
+		]}
+},
+{
+	"name": "Principality"
+},
+{
+	"name": "Political Section"
+},
+  {
+    "name": "Organization",
+    "jobs": {
+      "level-5": [
+        "President"
+      ],
+      "level-4": [
+        "R&D Manager",
+        "Military Manager",
+        "Finance Manager"
+      ],
+      "level-3": [
+        "Military Advisor",
+        "President's Advisor",
+        "Marketing Director"
+      ]
+    }
+  },
+{
+	"name": "Conclave",
+	"jobs": {
+		"level-5": [
+			"Prior"
+		],
+		"level-4": [
+			"Paternal Cardinal",
+			"Fraternal Cardinal",
+			"Filial Cardinal"
+		],
+		"level-3": [
+			"Senescent Archbishop",
+			"Filial Archbishop",
+			"Manager"
+		],
+		"level-2": [
+			"Ceer"
+		],
+		"level-1": [
+			"Friar"
+		]
+	}
+},
+{
+	"name": "Hierarchy"
+},
+	{
+		"name": "Imperium"
+	},
+	{
+		"name": "Senate",
+		"jobs": {
+			"level-5": [
+				"Speaker of the Senate"
+			],
+			"level-4": [
+				"Majority Leader"
+			],
+			"level-3": [
+				"Minority Leader"
+			],
+			"level-2": [
+				"Senator"
+			],
+			"level-1": [
+				"Senator's Aid"
+			]
+		}
+	},
+{
+	"name": "Assembly",
+	"jobs": {
+		"level-5": [
+			"Host"
+		],
+		"level-4": [
+			"Co-host"
+		],
+		"level-3": [
+			"Military Organizer",
+			"International Committee",
+			"Public Committee"
+		],
+		"level-2": [
+			"Agriculture Comittee"
+		],
+		"level-1": [
+			"Cupbearer",
+			"Public Speaker"
+		]
+	}
+},
+{
+	"name": "Gathering"
+},
+	{
+		"name": "Protectorate",
+		"jobs": {
+			"level-5": [
+				"Great Protector"
+			],
+			"level-4": [
+				"Speaker of the Parliament",
+				"Head of Intelligence",
+				"Head of Treasury"
+			],
+			"level-3": [
+				"Protectors Guard"
+			]
+		}
+	},
+{
+	"name": "Ascendency"
+},
+	{
+		"name": "Worlds",
+		"jobs": {
+			"level-5": [
+				"Worldmaster"
+			],
+			"level-4": [
+				"Senate Leader",
+				"Fleetlord"
+			],
+			"level-3": [
+				"Social Minister",
+				"Spiritual Minister"
+			]
+		}
+	},
+{
+	"name": "Army",
+	"jobs": {
+		"level-5": [
+			"Commander-In-Chief"
+		],
+		"level-4": [
+			"General of Armies",
+			"Admiral of the Fleet"
+
+		],
+		"level-3": [
+			"General",
+			"Militia Commander",
+			"Planetary Commander"
+		]
+	}
+},
+{
+	"name": "Government"
+},
+{
+	"name": "Ministry"
+	"jobs":    {
+	    "level-5": [
+	        "Chief Minister of the Nation"
+	        "Vice-Chief Minister"
+	        "Assembly Organizer"
+	        "Executive General of the Military"
+	        "First Lady of the Chief Minister"
+	],
+	    "level-4": [
+	        "Chief Religious Leader"
+	        "Overseer of the Treasury"
+	        "Fleetlord Employer"
+	        "Employer of Army Commanders"
+	        "Election Manager"
+	        "CFO"
+	        "Chancellor"
+	        "General Media Manager"
+    ],
+	    "level-3": [
+	        "Governor of the 3rd State"
+	        "Governor of the 2nd State"
+	        "Governor of the 1st State"
+	        "Lawmaker"
+	        "Assembly Member 1"
+	        "Assembly Member 2"
+	        "Chief Assembly Member"
+	        "First Lady of the 1st State Governor"
+	        "Director of the Secret Police"
+        ]
+	},	
+},
+{
+	"name": "Partnership",
+	"jobs": {
+	"level-5": [
+		"Senior Partner"
+	],
+	"level-4": [
+		"Partner",
+		"Partner"
+	],
+	"level-3": [
+		"Junior Partner",
+		"Junior Partner"
+	]},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Provinces"
+},
+{
+	"name": "Body"
+},
+{
+	"name": "Jury",
+	"jobs": {
+		"level-5": [
+			"Spokesperson"
+		],
+		"level-4": [
+			"Elder Juror",
+			"Elder Juror"
+		],
+		"level-3": [
+			"Juror",
+			"Juror"
+		]
+	},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Meritocracy",
+	"jobs": {
+		"level-5": [
+			"Master"
+		],
+		"level-4": [
+			"Senior Expert",
+			"Senior Expert"
+		],
+		"level-3": [
+			"Expert",
+			"Expert"
+		]
+	},
+	
+	"recruiting": "MERIT"
+},
+{
+	"name": "Sultanate"
+	"jobs": {
+		"level-5": [
+			"Sultan"
+			"First Lady"
+		],
+		"level-4": [
+			"Mayor of Capital"
+			"Senior General"
+			"Military Advisor"
+			"Civil Advisor"
+			"Agricultural Advisor"
+		],
+		"level-3": [
+			"Bodyguard"
+			"Maid"
+			"Economic Executive"
+			"General"
+		],
+		"level-2": [
+			"Junior General"
+			"Army Commander"
+		],
+		"level-1": [
+			"Dishonorable General"
+			"Ex-First Lady"
+		]
+	}
+},
+{
+	"name": "Caliphate"
+	"jobs": {
+		"level-5": [
+			"Caliph"
+			"Head Advisor"
+		]
+	}
+},
+{
+	"name": "Marichratic"
+	"jobs": {
+		"level-5": [
+			"Marichcrat"
+			"2nd In Power"
+			"Next in Power"
+		]
+	}
+},
+{
+	"name": "Khanate"
+},
+{
+	"name": "Dependent Nation"
+},
+{
+	"name": "Geriocracy",
+	"jobs": {
+		"level-5": [
+			"Geriocrat"
+		],
+		"level-4": [
+			"Venerable Elder",
+			"Most Olden One"
+		],
+		"level-3": [
+			"Elder",
+			"Caretaker of the Geriocrat"
+		]
+	}
+},
+	{
+		"name": "Robocracy",
+		"jobs": {
+			"level-5": [
+				"Overseer"
+			],
+			"level-4": [
+				"Administrative AI",
+				"Military AI"
+			],
+			"level-3": [
+				"Programmer",
+				"Engineer"
+			]
+		},
+		"specials": [
+			"INDUSTRIAL"
+		]
+	},
+{
+	"name": "Tribe",
+	"jobs": {
+		"level-5": [
+			"Chief"
+		],
+		"level-4": [
+			"Headman",
+			"Elder"
+		],
+		"level-3": [
+			"Chiefs Guard",
+			"Medicine Man",
+			"Ancestral Speaker"
+		]
+	}
+},
+{
+	"name": "Theocracy",
+	"jobs": {
+		"level-5": [
+			"High Priest"
+		],
+		"level-4": [
+			"Master of Ceremonies",
+			"Master of Holy Wars"
+		],
+		"level-3": [
+			"Priest",
+			"Scribe"
+		]
+	},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Oligarchy",
+	"jobs": {
+		"level-5": [
+			"Oligarch"
+		],
+		"level-4": [
+			"Businessman",
+			"Businessman"
+		],
+		"level-3": [
+			"Administrator",
+			"Administrator"
+		]
+	},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Plutocracy"
+},
+{
+	"name": "Federal Republic"
+},
+{
+	"name": "Liberal Republic"
+},
+{
+	"name": "Ultranationalist Republic"
+	"jobs": {
+		"level-5": [
+			"Nationalist Leader"
+			"Military Minister"
+			"Economic Minister"
+			"Internal Minister"
+			"Chief of Operations"
+		],
+		"level-4": [
+			"Next Leader"
+			"Chief of Economics"
+		]
+	}
+},
+{
+	"name": "Ochlocracy",
+	"jobs": {
+		"level-5": [
+			"Chief Ochlocrat"
+		],
+		"level-4": [
+			"Ochlocrat",
+			"Ochlocrat",
+			"Ochlocrat",
+			"Ochlocrat"
+		]
+	}
+},
+{
+	"name": "Dictatorship",
+	"jobs": {
+		"level-5": [
+			"Dictator"
+		],
+		"level-4": [
+			"Head of Secret Police",
+			"Fleet Admiral"
+		],
+		"level-3": [
+			"Minister of Information",
+			"Minister of People"
+		]
+	}
+},
+{
+	"name": "Autocracy",
+	"jobs": {
+		"level-5": [
+			"Autocrat"
+		]
+	},
+	"specials": [
+		"UNSTABLE"
+	],
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Colony",
+	"jobs": {
+		"level-5": [
+			"Governor"
+		],
+		"level-4": [
+			"Lieutenant-Governor"
+		],
+		"level-3": [
+			"General of the armies",
+			"Grand Admiral"
+		],
+		"level-2": [
+			"Chief of Police"
+		],
+		"level-1": [
+			"Local Celebrity"
+		]
+	}
+},
+{
+	"name": "Swarm"
+},
+{
+	"name": "Chiefdom"
+},
+{
+	"name": "Aristocracy"
+},
+	{
+		"name": "Timocracy",
+		"jobs": {
+			"level-5": [
+				"Most Honorable Citizen"
+			],
+			"level-4": [
+				"Deputy-General",
+				"Greater Citizen"
+			],
+			"level-3": [
+				"Citizen",
+				"Citizen"
+			]
+		}
+	},
+{
+	"name": "Diaspora"
+},
+{
+	"name": "Conspiracy"
+},
+	{
+		"name": "Population",
+		"jobs": {
+			"level-5": [
+				"Voice of the People"
+			],
+			"level-4": [
+				"Advocate",
+				"Advocate"
+			],
+			"level-3": [
+				"Ombudsman",
+				"Ombudsman"
+			]
+		}
+	},
+{
+	"name": "Administration"
+},
+	{
+		"name": "Hive",
+		"jobs": {
+			"level-5": [
+				"Overlord Prime"
+			],
+			"level-3": [
+				"Supreme Enforcer",
+				"Supreme Defender",
+				"Supreme Externer"
+			],
+			"level-1": [
+				"Overseer-Loyalty",
+				"Overseer-Doctrine",
+				"Overseer-Wealth"
+			]
+		},
+		"specials": [
+			"INDUSTRIAL"
+		]
+	},
+{
+	"name": "Communion"
+},
+{
+	"name": "Pact"
+},
+	{
+		"name": "Syndicate",
+		"jobs": {
+			"level-5": [
+				"Godfather"
+			],
+			"level-4": [
+				"Capo"
+			],
+			"level-3": [
+				"Associate",
+				"Associate",
+				"Advisor"
+			]
+		}
+	},
+{
+	"name": "Institution"
+},
+{
+	"name": "Enablement"
+},
+{
+	"name": "Contingency"
+},
+{
+	"name": "Junta",
+	"jobs": {
+		"level-5": [
+			"Grand Marshal"
+		],
+		"level-4": [
+			"General",
+			"Admiral"
+		],
+		"level-3": [
+			"Vice Admiral",
+			"Lieutenant General"
+		]
+	},
+	"specials": [
+		"MILITANT"
+	]
+},
+{
+	"name": "Cabal"
+},
+{
+	"name": "Commission"
+},
+{
+	"name": "Agency"
+},
+{
+	"name": "Enterprise"
+},
+{
+	"name": "Regency"
+},
+{
+	"name": "Territories"
+},
+{
+	"name": "Technocracy"
+},
+{
+	"name": "Electorate",
+	"jobs": {
+		"level-5": [
+			"Prince-Elector"
+		],
+		"level-4": [
+			"Minister of Diplomacy",
+			"Minister of State"
+		],
+		"level-3": [
+			"Elector",
+			"Elector",
+			"Elector"
+		]
+	}
+},
+{
+	"name": "Potency"
+},
+{
+	"name": "Nobility"
+},
+{
+	"name": "Corporation",
+	"jobs": {
+		"level-5": [
+			"CEO"
+		],
+		"level-4": [
+			"CFO",
+			"COO"
+		],
+		"level-3": [
+			"CTO",
+			"CRO",
+			"CMO"
+		]
+	},
+	"recruiting": "INTERNAL",
+	"specials": [
+		"CAPITALIST"
+	]
+},
+{
+	"name": "Covenant",
+	"recruiting": "INTERNAL"
+},
+	{
+		"name": "Cult",
+		"jobs": {
+			"level-5": [
+				"Cult Leader"
+			],
+			"level-4": [
+				"Priest",
+				"Martyr"
+			],
+			"level-3": [
+				"Cultist",
+				"Recruiter"
+			]
+		}
+	},
+{
+	"name": "Movement"
+},
+{
+	"name": "Temple"
+},
+{
+	"name": "Patriarchy",
+	"jobs": {
+		"level-5": [
+			"Patriarch"
+		],
+		"level-4": [
+			"Father",
+			"Son"
+		],
+		"level-3": [
+			"Brother",
+			"Brother"
+		]
+	},
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Matriarchy",
+	"jobs": {
+		"level-5": [
+			"Matriarch"
+		],
+		"level-4": [
+			"Mother",
+			"Daughter"
+		],
+		"level-3": [
+			"Sister",
+			"Sister"
+		]
+	},
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Order"
+},
+{
+	"name": "Identity"
+},
+{
+	"name": "Band",
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Family"
+},
+{
+	"name": "Fellowship"
+},
+	{
+		"name": "Pilgrimage",
+		"jobs": {
+			"level-5": [
+				"High Leader"
+			],
+			"level-4": [
+				"High Leader's Assistant",
+				"Defender of the Faith"
+			],
+			"level-3": [
+				"Minister of Labour",
+				"Minister of Education"
+			]
+		}
+},
+{
+	"name": "Stewardship"
+},
+{
+	"name": "Corporatocracy"
+},
+{
+	"name": "Trust"
+},
+{
+	"name": "Entity"
+},
+{
+	"name": "Company"
+},
+{
+	"name": "Society"
+},
+{
+	"name": "Office"
+},
+{
+	"name": "Quorum"
+},
+{
+	"name": "Bureau"
+},
+{
+	"name": "Instrumentality"
+},
+{
+	"name": "House",
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Clan",
+	"recruiting": "HEREDITARY"
+},
+{
+	"name": "Sanctum"
+},
+{
+	"name": "Authority"
+},
+{
+	"name": "Falange"
+},
+{
+	"name": "Group"
+},
+{
+	"name": "Assemblage"
+},
+{
+	"name": "Circle"
+},
+{
+	"name": "Schism",
+	"jobs": {
+		"level-5": [
+			"Schismatic"
+		],
+		"level-4": [
+			"Military Minister",
+			"Internal Minister"
+		],
+		"level-3": [
+			"Heretic",
+			"Dissident"
+		]
+	},
+	"recruiting": "INTERNAL"
+},
+{
+	"name": "Division"
+},
+{
+	"name": "Ensemble",
+	"jobs": {
+		"level-5": [
+			"Coordinator"
+		],
+		"level-4": [
+			"Conductor",
+			"Concertmaster"
+		],
+		"level-3": [
+			"First Gun",
+			"First Coin",
+			"First Heart"
+		]
+	}
+},
+{
+	"name": "Formation"
+},
+	{
+		"name": "Triumvirate",
+		"jobs": {
+			"level-5": [
+				"Triumvir of Internal Affairs",
+				"Triumvir of External Affairs",
+				"Triumvir of Militarist Affairs"
+			],
+			"level-4": [
+				"Designated Heir",
+				"Chief of Space Command",
+				"Chief of Land Command"
+			],
+			"level-3": [
+				"Industrial Bureau",
+				"Propaganda Bureau"
+			],
+			"level-2": [
+				"General",
+				"General",
+				"General"
+			],
+			"level-1": [
+				"Politician",
+				"Politican",
+				"Politican"
+			]
+		},
+		"recruiting": "INTERNAL"
+	},
+{
+	"name": "Ideocracy"
+},
+	{
+		"name": "Clonocracy",
+		"recruiting": "HEREDITARY"
+	},
+{
+	"name": "Mission"
+},
+	{
+		"name": "Somecracy",
+		"jobs": {
+			"level-5": [
+				"Somellier"
+			],
+			"level-4": [
+				"Some Lord",
+				"Some Priest",
+				"Some Adviser"
+			],
+			"level-3": [
+				"Some Guy",
+				"Some Girl"
+			]
+		}
+	},
+	{
+	"name": "Chapter",
+	"jobs": {
+		"level-5": [
+			"Chapter Master"
+		],
+		"level-4": [
+			"Chief Librarian",
+			"Captain",
+			"Apothecary"
+		],
+		"level-3": [
+			"Chapter Ancient",
+			"Master of the Forge"
+		]
+	}
+}
+]
